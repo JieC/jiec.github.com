@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://JieC.github.com/sitemap.xml 
